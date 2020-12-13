@@ -13,7 +13,10 @@ body {
     width: 175px;
 }
 .paralax-inner{
-    
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
 }
 
 #welcome {
